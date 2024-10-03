@@ -1,0 +1,111 @@
+ID;Nome;Fabricante;Tipo;Corrente;Tensao;Pinos
+1;Resistor 220 Ohm;Vishay;PTH;2.5;200;2
+2;Capacitor 10uF;Murata;SMD;0.05;50;2
+3;Transistor NPN 2N3904;ONSemiconductor;PTH;2;40;3
+4;LED Vermelho;Cree;SMD;0.2;2.2;2
+5;Diodo 1N4148;STMicroelectronics;PTH;2;100;2
+6;CI 555 Timer;TexasInstruments;SMD;0.1;18;8
+7;Indutor 10mH;TDK;PTH;2;50;2
+8;Amp-Op LM741;AnalogDevices;SMD;0.06;15;5
+9;Oscilador de Cristal;Epson;PTH;0.01;10;2
+10;Potenciometro 10k;Bourns;SMD;0.2;25;3
+11;Resistor 470 Ohm;Vishay;PTH;2.5;200;2
+12;Capacitor 100uF;Murata;SMD;0.05;50;2
+13;Transistor PNP 2N3906;ONSemiconductor;PTH;2;40;3
+14;LED Verde;Cree;SMD;0.2;2.2;2
+15;Diodo Schottky;STMicroelectronics;PTH;2;100;2
+16;CI 741 Op-Amp;TexasInstruments;SMD;0.1;18;8
+17;Indutor 1mH;TDK;PTH;2;50;2
+18;Amp-Op LM358;AnalogDevices;SMD;0.06;15;5
+19;Oscilador de Quartzo;Epson;PTH;0.01;10;2
+20;Potenciometro 5k;Bourns;SMD;0.2;25;3
+21;Sensor de Luz LDR;Panasonic;PTH;0.02;5;2
+22;Capacitor Eletrolitico 100uF;Nichicon;SMD;0.1;50;2
+23;Transistor MOSFET IRF540;Infineon;TO-220;33;100;3
+24;Display OLED 0.96";Samsung;SMD;0.1;5;6
+25;Diodo Zener 1N4733A;DiodesIncorporated;DO-41;0.05;5.1;2
+26;Microcontrolador ATmega328P;Microchip;DIP-28;0.02;5.5;28
+27;Resistor 10k Ohm;Yageo;PTH;0.1;200;2
+28;CI Comparador LM339;STMicroelectronics;SOP-14;0.01;36;14
+29;Sensor de Temperatura LM35;TexasInstruments;TO-92;0.01;10;3
+30;Potenciometro 1k;AlphaTaiwan;PTH;0.02;100;3
+31;Resistor 220 Ohm;Vishay;PTH;2.5;200;2
+32;Capacitor 10uF;Murata;SMD;0.05;50;2
+33;Transistor NPN 2N3904;ONSemiconductor;PTH;2;40;3
+34;LED Vermelho;Cree;SMD;0.2;2.2;2
+35;Diodo 1N4148;STMicroelectronics;PTH;2;100;2
+36;CI 555 Timer;TexasInstruments;SMD;0.1;18;8
+37;Indutor 10mH;TDK;PTH;2;50;2
+38;Amp-Op LM741;AnalogDevices;SMD;0.06;15;5
+39;Oscilador de Cristal;Epson;PTH;0.01;10;2
+40;Potenciometro 10k;Bourns;SMD;0.2;25;3
+41;Resistor 470 Ohm;Vishay;PTH;2.5;200;2
+42;Capacitor 100uF;Murata;SMD;0.05;50;2
+43;Transistor PNP 2N3906;ONSemiconductor;PTH;2;40;3
+44;LED Verde;Cree;SMD;0.2;2.2;2
+45;Diodo Schottky;STMicroelectronics;PTH;2;100;2
+46;CI 741 Op-Amp;TexasInstruments;SMD;0.1;18;8
+47;Indutor 1mH;TDK;PTH;2;50;2
+48;Amp-Op LM358;AnalogDevices;SMD;0.06;15;5
+49;Oscilador de Quartzo;Epson;PTH;0.01;10;2
+50;Potenciometro 5k;Bourns;SMD;0.2;25;3
+51;Resistor 220 Ohm;Vishay;PTH;2.5;200;2
+52;Capacitor 10uF;Murata;SMD;0.05;50;2
+53;Transistor NPN 2N3904;ONSemiconductor;PTH;2;40;3
+54;LED Vermelho;Cree;SMD;0.2;2.2;2
+55;Diodo 1N4148;STMicroelectronics;PTH;2;100;2
+56;CI 555 Timer;TexasInstruments;SMD;0.1;18;8
+57;Indutor 10mH;TDK;PTH;2;50;2
+58;Amp-Op LM741;AnalogDevices;SMD;0.06;15;5
+59;Oscilador de Cristal;Epson;PTH;0.01;10;2
+60;Potenciometro 10k;Bourns;SMD;0.2;25;3
+61;Resistor 470 Ohm;Vishay;PTH;2.5;200;2
+62;Capacitor 100uF;Murata;SMD;0.05;50;2
+63;Transistor PNP 2N3906;ONSemiconductor;PTH;2;40;3
+64;LED Verde;Cree;SMD;0.2;2.2;2
+65;Diodo Schottky;STMicroelectronics;PTH;2;100;2
+66;CI 741 Op-Amp;TexasInstruments;SMD;0.1;18;8
+67;Indutor 1mH;TDK;PTH;2;50;2
+68;Amp-Op LM358;AnalogDevices;SMD;0.06;15;5
+69;Oscilador de Quartzo;Epson;PTH;0.01;10;2
+70;Potenciometro 5k;Bourns;SMD;0.2;25;3
+71;Sensor de Luz LDR;Panasonic;PTH;0.02;5;2
+72;Capacitor Eletrolitico 100uF;Nichicon;SMD;0.1;50;2
+73;Transistor MOSFET IRF540;Infineon;TO-220;33;100;3
+74;Display OLED 0.96";Samsung;SMD;0.1;5;6
+75;Diodo Zener 1N4733A;DiodesIncorporated;DO-41;0.05;5.1;2
+76;Microcontrolador ATmega328P;Microchip;DIP-28;0.02;5.5;28
+77;Resistor 10k Ohm;Yageo;PTH;0.1;200;2
+78;CI Comparador LM339;STMicroelectronics;SOP-14;0.01;36;14
+79;Sensor de Temperatura LM35;TexasInstruments;TO-92;0.01;10;3
+80;Potenciometro 1k;AlphaTaiwan;PTH;0.02;100;3
+81;Resistor 220 Ohm;Vishay;PTH;2.5;200;2
+82;Capacitor 10uF;Murata;SMD;0.05;50;2
+83;Transistor NPN 2N3904;ONSemiconductor;PTH;2;40;3
+84;LED Vermelho;Cree;SMD;0.2;2.2;2
+85;Diodo 1N4148;STMicroelectronics;PTH;2;100;2
+86;CI 555 Timer;TexasInstruments;SMD;0.1;18;8
+87;Indutor 10mH;TDK;PTH;2;50;2
+88;Amp-Op LM741;AnalogDevices;SMD;0.06;15;5
+89;Oscilador de Cristal;Epson;PTH;0.01;10;2
+90;Potenciometro 5k;Bourns;SMD;0.2;25;3
+91;Sensor de Proximidade IR;Sharp;PTH;0.02;5;2
+92;Rele de 5V;Omron;PTH;0.1;5;5
+93;Sensor de Gas MQ-2;Winsen;SMD;0.15;5;4
+94;CI Regulador de Tensao LM317;STMicroelectronics;TO-220;1.5;37;3
+95;Potenciometro 100k;AlphaTaiwan;PTH;0.05;100;3
+96;Sensor de Movimento PIR;Panasonic;SMD;0.02;3.3;3
+97;CI Amplificador de Audio TDA2030;STMicroelectronics;PTH;1.5;22;5
+98;Sensor de Umidade DHT22;Aosong;SMD;0.1;5.5;4
+99;CI Conversor Analogico-Digital ADC0804;TexasInstruments;DIP-20;0.02;6;20
+100;Potenciometro 500 Ohm;Bourns;PTH;0.1;50;3
+101;Sensor de Luz LDR;Panasonic;PTH;0.02;5;2
+102;Capacitor Eletrolitico 100uF;Nichicon;SMD;0.1;50;2
+103;Transistor MOSFET IRF540;Infineon;TO-220;33;100;3
+104;Display OLED 0.96";Samsung;SMD;0.1;5;6
+105;Diodo Zener 1N4733A;DiodesIncorporated;DO-41;0.05;5.1;2
+106;Microcontrolador ATmega328P;Microchip;DIP-28;0.02;5.5;28
+107;Resistor 10k Ohm;Yageo;PTH;0.1;200;2
+108;CI Comparador LM339;STMicroelectronics;SOP-14;0.01;36;14
+109;Sensor de Temperatura LM35;TexasInstruments;TO-92;0.01;10;3
+110;Potenciometro 1k;AlphaTaiwan;PTH;0.02;100;3
